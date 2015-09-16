@@ -1,7 +1,7 @@
 zaw-systemd
 ----------
 
-An optional source of [zaw](https://github.com/zsh-users/zaw) for systemd
+Optional sources of [zaw](https://github.com/zsh-users/zaw) for systemd:
 
 - systemctl
 - systemctl-user
