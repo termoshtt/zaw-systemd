@@ -8,4 +8,4 @@ Optional sources of [zaw](https://github.com/zsh-users/zaw) for systemd:
 
 Licence
 --------
-BSD 3-closure (see LICENSE file)
+BSD 3-clause (see LICENSE file)
